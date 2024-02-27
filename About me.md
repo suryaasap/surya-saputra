@@ -21,6 +21,6 @@
 
 - 💻 &nbsp; Java | JavaScript | python |C#| R (Statistics)
 - 🌐 &nbsp; HTML | CSS | shoelaces | Node.js
-- 🎮 &nbsp; Unity
+- 🎮 &nbsp; mobile legends | PUBG Mobile
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Postman API | Adobe XD | Android Studios | Linux
