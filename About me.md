@@ -4,7 +4,7 @@
 - 🌱 Currently I am learning the Python programming language, data management and cyber security
 - 👯 I want to collaborate on the creation of learning machines
 - 🤔 I’m looking to collaborate on micro, macro massive at Infinite Learning
-- 💬 Ask me about 
+- 💬 Ask me about
 - 📫 How to reach me
 - my instagram account @suryasptr19
 - ⚡ Fun fact
